@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" SymbolicName="AAA" Name="AAA" Version="1.0.0.0" InitializedState="Active">
+  <Activator Type="AAA.Activator"/>
+  <Runtime>
+    <Assembly Path="bin\AAA.dll"/>
+  </Runtime>
+</Bundle>
